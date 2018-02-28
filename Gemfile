@@ -26,6 +26,7 @@ gem 'jquery-rails', '~> 4.3.1'
 gem 'socialization', '~> 1.2'
 gem 'will_paginate', '~> 3.1.0'
 gem 'rails_admin', '~> 1.2'
+gem 'httparty', '~> 0.16'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.7'
